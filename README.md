@@ -44,4 +44,9 @@ SERVER CONFIGURATION :
 		- alias
 		- cgi_pass
 
-Credits : Charlie Armstrong (charmstr), Loic Buckwell (lfalkau), Lambert Spiess (lspiess)
+Credits :
+
+	[I'm an inline-style link with title](https://www.google.com "charMstr")
+
+	https://github.com/charMstr
+Charlie Armstrong (charmstr), Loic Buckwell (lfalkau), Lambert Spiess (lspiess)

@@ -47,6 +47,6 @@ Credits :
 
 [Charlie Armstrong (charMstr)](https://github.com/charMstr)
 
-Loic Buckwell (lfalkau)
+[Loic Buckwell (lfalkau)](https://gitlab.com/bccyv)
 
 [Lambert Spiess (lspiess)](https://github.com/lambertspiess)

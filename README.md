@@ -3,15 +3,15 @@ DESCRIPTION :
 	RFC 7230 to 7235.
 	It uses select() for multiplexing.
 	
-	It supports the following headers :
-		Accept-Charsets
-		Accept-Language
-		Allow
-		Authorization
-		Content-Language
-		Content-Length
-		Content-Location
-		Content-Type
+It supports the following headers :
+	Accept-Charsets
+	Accept-Language
+	Allow
+	Authorization
+	Content-Language
+	Content-Length
+	Content-Location
+	Content-Type
 
 
 BUILD :

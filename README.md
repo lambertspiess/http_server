@@ -26,8 +26,7 @@ USAGE :
 
 SERVER CONFIGURATION :
 
-	The configuration file follows nginx's server blocks's basic syntax with
-	a few simplifications :
+	The configuration file follows a subset of nginx's basic cascading contexts syntax :
 	- There are no core contexts (http, main, events) declarations.
 	  The whole configuration file is assumed by the server to be an http
 	  context. You can only declare 'server' blocks and their nested 'location'

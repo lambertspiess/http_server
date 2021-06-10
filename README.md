@@ -1,9 +1,11 @@
 DESCRIPTION :
+	
 	A monothread HTTP server, based on nginx, written in C++98, and compliant with
 	RFC 7230 to 7235.
 	It uses select() for multiplexing.
 	
 It supports the following headers :
+	
 	Accept-Charsets
 	Accept-Language
 	Allow
@@ -15,14 +17,15 @@ It supports the following headers :
 
 
 BUILD :
+	
 	$> make
 
 USAGE :
+	
 	$> ./webserv [config.conf]
 
-DESCRIPTION :
-
 SERVER CONFIGURATION :
+
 	The configuration file follows nginx's server blocks's basic syntax with
 	a few simplifications :
 	- There are no core contexts (http, main, events) declarations.

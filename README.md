@@ -46,7 +46,6 @@ SERVER CONFIGURATION :
 
 Credits :
 
-	[I'm an inline-style link with title](https://www.google.com "charMstr")
-
-	https://github.com/charMstr
-Charlie Armstrong (charmstr), Loic Buckwell (lfalkau), Lambert Spiess (lspiess)
+	Charlie Armstrong (https://github.com/charMstr)
+	Loic Buckwell (lfalkau)
+	Lambert Spiess (https://github.com/lambertspiess)
